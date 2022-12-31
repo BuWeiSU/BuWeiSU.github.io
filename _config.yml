@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Weiheng Su"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Weiheng Su"
-description              : &description "Master Candiate in Xi'an Jiaotong University"
+description              : &description "Master Candidate in Xi'an Jiaotong University"
 url                      : https://buweisu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "BuWeiSU.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Weiheng Su"
   avatar           : "profile.png"
-  bio              : "Master Candiate in Xi'an Jiaotong University"
+  bio              : "Master Candidate in Xi'an Jiaotong University"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
