@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /medication/
 title: "Medication"
 author_profile: true
