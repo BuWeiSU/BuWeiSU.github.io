@@ -1,3 +1,12 @@
+---
+permalink: /medication/
+title: "Medication"
+author_profile: true
+redirect_from: 
+  - /medication_recommendation/
+  - /medication_recommendation.html
+---
+
 这个文档是我阅读药物推荐领域的相关论文的总结与梳理，旨在阐明药物推荐领域的发展脉络，为药物推荐领域综述书写打下较为良好的基础。
 
 ### Change Matter: Medication Recommendation with Recurrent Residual Networks, Chaoqi Yang,IJCAI-21
